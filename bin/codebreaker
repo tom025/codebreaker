@@ -1,0 +1,3 @@
+#! /usr/bin/env ruby
+require 'codebreaker/game'
+require 'codebreaker/generator'
